@@ -1,8 +1,16 @@
-# Rails 7.0 + React 18.3 + MySQL 8.0
+# Rails 7 + React 18 + TypeScript 4 + MySQL 8
 
-フロントエンド - Node 14.17.1-alpine, React 18.3  
-バックエンド　- Ruby 3.2.1, Ruby on Rails 7.0  
-DB - MySQL 8.0
+Frontend
+- Node 14.17.1-alpine
+- React 18.3
+- TypeScript 4.9.5
+
+Backend
+- Ruby 3.2.1
+- Ruby on Rails 7.0  
+
+Database
+- MySQL 8.0
 
 Docker compose にて実装
 
